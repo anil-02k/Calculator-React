@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Ensure the body takes the full height */
+  background-image: url('https://img.freepik.com/free-vector/flat-geometric-background_23-2148957769.jpg?t=st=1730674036~exp=1730677636~hmac=559572c959ef5bfb75a708762407719b41385a397d15b52a2efdce0e484f8378&w=900');
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+}
